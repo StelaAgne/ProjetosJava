@@ -1,0 +1,14 @@
+import java.util.Scanner;
+
+public class Imc {
+
+public static void main(String[] args) {
+Scanner teclado=new Scanner(System.in);
+Double peso, altura, Imc;
+System.out.println("Vamos calcular sua massa corporal!");
+System.out.println("Digite seu peso:");
+	peso = teclado.nextDouble();
+
+
+}
+}

@@ -1,0 +1,19 @@
+import java.util.Scanner;
+
+public class Media2 {
+public static void main(String[] args) {
+Scanner teclado=new Scanner(System.in);
+Double nota1, nota2, media;
+
+
+
+
+
+
+
+
+
+
+}
+
+}
